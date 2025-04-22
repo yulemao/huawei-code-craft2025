@@ -24,8 +24,8 @@ using namespace std;
 
 const int B = 27;
 #define END_TIME (450)
-#define REP_TIME (1)
-#define THREAD_NUM (1)
+#define REP_TIME (100)
+#define THREAD_NUM (2)
 
 #define JUMP_MUL (1.4)
 #define JUMP_MUL_FAC (0.8)
